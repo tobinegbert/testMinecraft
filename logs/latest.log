@@ -1,0 +1,147 @@
+[03:31:57] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[03:31:57] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[03:31:57] [Server thread/INFO]: Loading properties
+[03:31:57] [Server thread/INFO]: Default game type: SURVIVAL
+[03:31:57] [Server thread/INFO]: Generating keypair
+[03:31:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:31:57] [Server thread/INFO]: Using epoll channel type
+[03:31:57] [Server thread/INFO]: Preparing level "world"
+[03:31:58] [Server thread/INFO]: Loaded 488 advancements
+[03:31:58] [Server thread/INFO]: Preparing start region for level 0
+[03:31:59] [Server thread/INFO]: Preparing spawn area: 0%
+[03:32:00] [Server thread/INFO]: Preparing spawn area: 48%
+[03:32:01] [Server thread/INFO]: Done (3.491s)! For help, type "help" or "?"
+[03:32:05] [User Authenticator #1/INFO]: UUID of player SavageVictor is f087e8ff-018c-443b-b602-2176273d6917
+[03:32:06] [Server thread/INFO]: SavageVictor[/24.10.184.185:51547] logged in with entity id 206 at (-170.75893579369856, 62.0, 290.30000001192093)
+[03:32:06] [Server thread/INFO]: SavageVictor joined the game
+[03:32:06] [User Authenticator #2/INFO]: UUID of player El_Gryphon is 6fba40f0-33e2-40eb-901f-a81628b6f730
+[03:32:06] [Server thread/INFO]: El_Gryphon[/97.121.173.150:51933] logged in with entity id 219 at (-200.30000001192093, 13.0, 408.9434241505311)
+[03:32:06] [Server thread/INFO]: El_Gryphon joined the game
+[03:32:07] [User Authenticator #3/INFO]: UUID of player froggyman12 is cbedaf4e-9c35-40d5-bdef-fe2833c71e40
+[03:32:07] [Server thread/INFO]: froggyman12[/65.130.204.144:61170] logged in with entity id 343 at (-167.75205784374964, 63.0, 327.39576806568743)
+[03:32:07] [Server thread/INFO]: froggyman12 joined the game
+[03:32:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2084ms behind, skipping 41 tick(s)
+[03:32:14] [User Authenticator #4/INFO]: UUID of player OnionBubs is 1d4ec991-3e6f-4039-b027-565e8d76bb50
+[03:32:14] [Server thread/INFO]: OnionBubs[/174.52.92.137:54725] logged in with entity id 362 at (-181.24319360333652, 64.16610926093821, 331.8120844423128)
+[03:32:14] [Server thread/INFO]: OnionBubs joined the game
+[03:35:35] [Server thread/INFO]: OnionBubs hit the ground too hard
+[03:38:25] [Server thread/INFO]: SavageVictor has made the advancement [Ice Bucket Challenge]
+[03:41:07] [Server thread/INFO]: <OnionBubs> what the fuck
+[03:41:13] [Server thread/INFO]: <OnionBubs> got it
+[03:41:19] [Server thread/INFO]: <froggyman12> is this allowe
+[03:41:22] [Server thread/INFO]: <froggyman12> allowed
+[03:41:24] [Server thread/INFO]: <SavageVictor> No, it isn't.
+[03:41:32] [Server thread/INFO]: <OnionBubs> nothing is allowed
+[03:41:36] [Server thread/INFO]: <OnionBubs> fucking die
+[03:41:40] [Server thread/INFO]: <SavageVictor> Everything is permitted
+[03:41:57] [Server thread/INFO]: SavageVictor has made the advancement [We Need to Go Deeper]
+[03:41:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9157ms behind, skipping 183 tick(s)
+[03:41:57] [Server thread/INFO]: <OnionBubs> isn't that from the shitty ass creed movie
+[03:42:01] [Server thread/WARN]: SavageVictor moved too quickly! 153.0,8.0,-253.19999998807907
+[03:42:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5491ms behind, skipping 109 tick(s)
+[03:46:33] [Server thread/INFO]: El_Gryphon has made the advancement [We Need to Go Deeper]
+[03:46:34] [Server thread/WARN]: El_Gryphon moved too quickly! 153.0,8.0,-252.6605197502601
+[03:47:04] [Server thread/INFO]: SavageVictor fell from a high place
+[03:47:15] [Server thread/INFO]: El_Gryphon has made the advancement [A Terrible Fortress]
+[03:48:13] [Server thread/WARN]: SavageVictor moved too quickly! 153.0,8.0,-253.19999998807907
+[03:48:21] [Server thread/INFO]: El_Gryphon has made the advancement [Into Fire]
+[03:48:30] [Server thread/WARN]: SavageVictor moved too quickly! -153.0,-8.0,252.77654503491516
+[03:51:25] [Server thread/WARN]: SavageVictor moved too quickly! 153.0,8.0,-253.19999998807907
+[03:52:53] [Server thread/INFO]: SavageVictor has made the advancement [A Terrible Fortress]
+[03:53:05] [Server thread/INFO]: El_Gryphon has made the advancement [Spooky Scary Skeleton]
+[04:01:40] [Server thread/WARN]: SavageVictor moved too quickly! -153.0,-8.0,253.17656919788539
+[04:02:14] [Server thread/INFO]: OnionBubs was blown up by Creeper
+[04:07:26] [Server thread/INFO]: SavageVictor has made the advancement [Spooky Scary Skeleton]
+[04:09:49] [Server thread/INFO]: El_Gryphon has made the advancement [Best Friends Forever]
+[04:12:28] [Server thread/WARN]: El_Gryphon moved wrongly!
+[04:16:33] [Server thread/INFO]: froggyman12 was slain by OnionBubs
+[04:19:58] [Server thread/INFO]: froggyman12 was blown up by Creeper
+[04:27:47] [Server thread/WARN]: Horse moved wrongly!
+[04:27:47] [Server thread/WARN]: Horse moved wrongly!
+[04:27:52] [Server thread/WARN]: Horse moved wrongly!
+[04:27:52] [Server thread/WARN]: Horse moved wrongly!
+[04:31:54] [Server thread/INFO]: froggyman12 was slain by Zombie
+[04:33:31] [Server thread/INFO]: froggyman12 was slain by OnionBubs
+[04:33:32] [Server thread/INFO]: SavageVictor has made the advancement [Suit Up]
+[04:39:16] [Server thread/INFO]: OnionBubs fell from a high place
+[04:39:21] [Server thread/WARN]: Fetching addPacket for removed entity
+[04:41:38] [Server thread/INFO]: El_Gryphon lost connection: Disconnected
+[04:41:38] [Server thread/INFO]: El_Gryphon left the game
+[04:42:48] [User Authenticator #5/INFO]: UUID of player El_Gryphon is 6fba40f0-33e2-40eb-901f-a81628b6f730
+[04:42:48] [Server thread/INFO]: El_Gryphon[/97.121.173.150:52207] logged in with entity id 159985 at (-169.4953277017428, 68.0, 297.88249202614423)
+[04:42:48] [Server thread/INFO]: El_Gryphon joined the game
+[04:43:52] [Server thread/WARN]: SavageVictor moved too quickly! 153.0,8.0,-253.19999998807907
+[04:47:00] [Server thread/INFO]: froggyman12 has made the advancement [Isn't It Iron Pick]
+[04:47:38] [Server thread/WARN]: SavageVictor moved too quickly! -153.0,-8.0,252.8307184247584
+[04:49:46] [Server thread/INFO]: <froggyman12> a goddamned intellectual
+[04:50:29] [Server thread/INFO]: froggyman12 was slain by OnionBubs
+[04:59:22] [Server thread/INFO]: SavageVictor has made the advancement [Into Fire]
+[05:01:24] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[05:01:29] [Server thread/INFO]: Usage: /tp [target player] <destination player> OR /tp [target player] <x> <y> <z> [<yaw> <pitch>]
+[05:07:19] [Server thread/INFO]: froggyman12 was slain by OnionBubs
+[05:10:36] [Server thread/INFO]: froggyman12 lost connection: Disconnected
+[05:10:36] [Server thread/INFO]: froggyman12 left the game
+[05:10:40] [User Authenticator #6/INFO]: UUID of player froggyman12 is cbedaf4e-9c35-40d5-bdef-fe2833c71e40
+[05:10:40] [Server thread/INFO]: froggyman12[/65.130.204.144:64064] logged in with entity id 222474 at (-192.88142192277758, 100.0, 320.7081515837336)
+[05:10:40] [Server thread/INFO]: froggyman12 joined the game
+[05:22:25] [Server thread/INFO]: SavageVictor has made the advancement [Local Brewery]
+[05:22:37] [Server thread/INFO]: OnionBubs has made the advancement [We Need to Go Deeper]
+[05:22:38] [Server thread/WARN]: OnionBubs moved too quickly! 153.0,8.0,-253.19999998807907
+[05:23:56] [Server thread/WARN]: OnionBubs moved too quickly! -153.0,-8.0,252.77276187313925
+[05:26:56] [Server thread/INFO]: El_Gryphon has made the advancement [Diamonds!]
+[05:45:05] [Server thread/INFO]: OnionBubs lost connection: Disconnected
+[05:45:05] [Server thread/INFO]: OnionBubs left the game
+[05:45:52] [User Authenticator #7/INFO]: UUID of player OnionBubs is 1d4ec991-3e6f-4039-b027-565e8d76bb50
+[05:45:52] [Server thread/INFO]: OnionBubs[/174.52.92.137:57793] logged in with entity id 313421 at (-188.94820282901912, 99.0, 326.82570748619)
+[05:45:52] [Server thread/INFO]: OnionBubs joined the game
+[05:47:14] [Server thread/INFO]: froggyman12 was slain by Enderman
+[05:52:11] [Server thread/INFO]: froggyman12 has made the advancement [A Seedy Place]
+[06:00:55] [Server thread/WARN]: froggyman12 was kicked for floating too long!
+[06:00:55] [Server thread/INFO]: froggyman12 lost connection: Flying is not enabled on this server
+[06:00:55] [Server thread/INFO]: froggyman12 left the game
+[06:00:55] [Server thread/WARN]: handleDisconnection() called twice
+[06:01:03] [User Authenticator #8/INFO]: UUID of player froggyman12 is cbedaf4e-9c35-40d5-bdef-fe2833c71e40
+[06:01:03] [Server thread/INFO]: froggyman12[/65.130.204.144:65483] logged in with entity id 342287 at (-187.5, 99.0999984741211, 329.5)
+[06:01:03] [Server thread/INFO]: froggyman12 joined the game
+[06:01:58] [Server thread/INFO]: El_Gryphon lost connection: Disconnected
+[06:01:58] [Server thread/INFO]: El_Gryphon left the game
+[06:02:15] [User Authenticator #9/INFO]: UUID of player El_Gryphon is 6fba40f0-33e2-40eb-901f-a81628b6f730
+[06:02:15] [Server thread/INFO]: El_Gryphon[/97.121.173.150:52431] logged in with entity id 343860 at (-113.50874050165444, 13.0, 466.4398735311875)
+[06:02:15] [Server thread/INFO]: El_Gryphon joined the game
+[06:02:24] [Server thread/INFO]: froggyman12 has made the advancement [Suit Up]
+[06:16:15] [Server thread/INFO]: [froggyman12: Set OnionBubs's game mode to Creative Mode]
+[06:17:17] [Server thread/INFO]: SavageVictor has made the advancement [The Parrots and the Bats]
+[06:20:40] [Server thread/INFO]: El_Gryphon has made the advancement [A Seedy Place]
+[06:31:26] [Server thread/INFO]: <OnionBubs> I'm out of soda sos
+[06:31:30] [Server thread/INFO]: <froggyman12> F
+[06:48:35] [Server thread/INFO]: <froggyman12> riparoni
+[06:48:43] [Server thread/INFO]: <froggyman12> my pepparoni
+[06:51:32] [Server thread/INFO]: <froggyman12> spenaroni
+[07:00:26] [Server thread/WARN]: El_Gryphon moved wrongly!
+[07:01:04] [Server thread/INFO]: [froggyman12: Set own game mode to Creative Mode]
+[07:01:24] [Server thread/INFO]: [froggyman12: Set own game mode to Survival Mode]
+[07:05:07] [Server thread/INFO]: <froggyman12> fr*ck
+[07:05:14] [Server thread/INFO]: <SavageVictor> banned
+[07:05:18] [Server thread/INFO]: <El_Gryphon> not in my christian minecraft server
+[07:06:19] [Server thread/WARN]: El_Gryphon moved wrongly!
+[07:08:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2504ms behind, skipping 50 tick(s)
+[07:08:51] [Server thread/WARN]: OnionBubs moved too quickly! 2.2587256650356835,2.0561798059870995,-9.738568195858903
+[07:08:55] [Server thread/WARN]: OnionBubs moved too quickly! 10.301241128401898,0.0,-0.4920087140810949
+[07:08:57] [Server thread/WARN]: OnionBubs moved too quickly! -8.01049918083065,0.14992938629640662,-6.2123695033569675
+[07:09:34] [Server Watchdog/FATAL]: A single server tick took 60.59 seconds (should be max 0.05)
+[07:09:34] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[07:09:35] [Server Watchdog/ERROR]: This crash report has been saved to: /home/ec2-user/./crash-reports/crash-2018-06-03_07.09.35-server.txt
+[07:09:35] [Server Shutdown Thread/INFO]: Stopping server
+[07:09:35] [Server thread/WARN]: SavageVictor moved too quickly! -4.243237503405851,-3.706487860469423,8.336691006220121
+[07:09:35] [Server Shutdown Thread/INFO]: Saving players
+[07:09:37] [Server thread/INFO]: SavageVictor lost connection: Server closed
+[07:09:37] [Server thread/INFO]: SavageVictor left the game
+[07:09:37] [Server thread/WARN]: SavageVictor moved too quickly! -4.237808740573598,-3.706487860469423,8.302802672122368
+[07:09:37] [Server thread/WARN]: handleDisconnection() called twice
+[07:09:39] [Server thread/INFO]: froggyman12 lost connection: Server closed
+[07:09:39] [Server thread/INFO]: froggyman12 left the game
+[07:09:39] [Server thread/WARN]: handleDisconnection() called twice
+[07:09:39] [Server Shutdown Thread/INFO]: Saving worlds
+[07:09:39] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[07:09:43] [Server thread/INFO]: El_Gryphon lost connection: Disconnected
+[07:09:44] [Server thread/INFO]: El_Gryphon left the game
